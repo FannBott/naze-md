@@ -2,7 +2,7 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/66827294199
+wa.me/855388410032
 
 Minimal Kasih Cr kalo mau reupload😡
 Create By Dika Ardnt.
@@ -31,9 +31,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['66827294199']
-global.ownernomer = "66827294199"
-global.premium = ['66827294199']
+global.owner = ['855388410032']
+global.ownernomer = "855388410032"
+global.premium = ['855388410032']
 global.packname = 'Sticker By Satria Bot'
 global.author = 'Satria MD'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
